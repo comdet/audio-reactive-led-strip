@@ -1,5 +1,8 @@
 # Audio Reactive LED Strip
 Real-time LED strip music visualization using Python and the ESP8266 or Raspberry Pi.
+# NOTE : 
+using this version of PyAudio to get loopback capture (windows 10)
+https://github.com/intxcc/pyaudio_portaudio
 
 ![block diagram](images/block-diagram.png)
 
